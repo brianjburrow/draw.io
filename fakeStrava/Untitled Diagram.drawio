@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T21:51:55.816Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="D1vEbXXQzxZrEuwRQmhE" version="15.7.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-11-18T22:21:02.889Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="lnnLL8dto2NIC5somqwf" version="15.7.4" type="github" pages="9">
   <diagram name="HomePage Large Screen" id="UGQkaAX0Huey11gdI7ry">
     <mxGraphModel dx="1868" dy="21562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
@@ -1459,7 +1459,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hTaOP47d79ujRtscNkMB" name="Activity Template">
-    <mxGraphModel dx="1259" dy="20781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="994" dy="20781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="_ivP5mq5kkFJQPZC0T6w-0" />
         <mxCell id="_ivP5mq5kkFJQPZC0T6w-1" parent="_ivP5mq5kkFJQPZC0T6w-0" />
@@ -1790,28 +1790,25 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1TwvKWZp1Byu8U8ut2Ht" name="Dependencies">
-    <mxGraphModel dx="904" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Dr8_-a_ms8hLvx5PWw8y-0" />
         <mxCell id="Dr8_-a_ms8hLvx5PWw8y-1" parent="Dr8_-a_ms8hLvx5PWw8y-0" />
-        <mxCell id="Dr8_-a_ms8hLvx5PWw8y-2" value="&lt;h1&gt;Project Dependencies&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Web Server: Express&lt;/div&gt;&lt;div&gt;2. Project tool: Nodemon&lt;/div&gt;&lt;div&gt;3. Cookie-based Authentication : Cookie-session&lt;/div&gt;&lt;div&gt;4. Parsing requests : body-parser&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;fontColor=#1A1A1A;" vertex="1" parent="Dr8_-a_ms8hLvx5PWw8y-1">
+        <mxCell id="Dr8_-a_ms8hLvx5PWw8y-2" value="&lt;h1&gt;Project Dependencies&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Web Server: Express&lt;/div&gt;&lt;div&gt;2. Project tool: Nodemon&lt;/div&gt;&lt;div&gt;3. Cookie-based Authentication : Cookie-session&lt;/div&gt;&lt;div&gt;4. Parsing requests : body-parser&lt;/div&gt;&lt;div&gt;5. Multi-part form parser: multer&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;fontColor=#1A1A1A;" vertex="1" parent="Dr8_-a_ms8hLvx5PWw8y-1">
           <mxGeometry x="160" y="60" width="550" height="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="vMa5ZH85uD7R8qUqL3i4" name="DirectoryStructure">
-    <mxGraphModel dx="994" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="iCNmhFIbcetUG7zfLb7N-0" />
         <mxCell id="iCNmhFIbcetUG7zfLb7N-1" parent="iCNmhFIbcetUG7zfLb7N-0" />
         <mxCell id="iCNmhFIbcetUG7zfLb7N-2" value="Index.js" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#1A1A1A;fillColor=#FFFFFF;" vertex="1" parent="iCNmhFIbcetUG7zfLb7N-1">
           <mxGeometry x="60" y="110" width="790" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iCNmhFIbcetUG7zfLb7N-3" value="Logged Out" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#1A1A1A;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="iCNmhFIbcetUG7zfLb7N-1">
-          <mxGeometry x="60" y="210" width="250" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="iCNmhFIbcetUG7zfLb7N-8" value="Logged In" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#1A1A1A;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="iCNmhFIbcetUG7zfLb7N-1">
+        <mxCell id="iCNmhFIbcetUG7zfLb7N-8" value="Routes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#1A1A1A;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="iCNmhFIbcetUG7zfLb7N-1">
           <mxGeometry x="330" y="210" width="250" height="320" as="geometry" />
         </mxCell>
         <mxCell id="iCNmhFIbcetUG7zfLb7N-9" value="Views" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#1A1A1A;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="iCNmhFIbcetUG7zfLb7N-1">
@@ -1822,6 +1819,9 @@
         </mxCell>
         <mxCell id="iCNmhFIbcetUG7zfLb7N-11" value="Logged In Layout" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#1A1A1A;fillColor=#FFFFFF;" vertex="1" parent="iCNmhFIbcetUG7zfLb7N-1">
           <mxGeometry x="750" y="230" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F-pNTXiTfL2ltFcO6oRc-1" value="Public" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#1A1A1A;fillColor=#FFFFFF;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="iCNmhFIbcetUG7zfLb7N-1">
+          <mxGeometry x="60" y="210" width="250" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
