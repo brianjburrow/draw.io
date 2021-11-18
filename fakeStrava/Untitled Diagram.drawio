@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-18T22:32:50.457Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Wv3QCFciZ1ciq2eJMwn0" version="15.7.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-11-18T22:36:42.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="1yOSIu0SEjxCZ_tE8MPx" version="15.7.4" type="github" pages="10">
   <diagram name="HomePage Large Screen" id="UGQkaAX0Huey11gdI7ry">
     <mxGraphModel dx="1868" dy="21562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="20000" math="0" shadow="0">
       <root>
@@ -1877,7 +1877,7 @@
           <mxGeometry x="940" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Rqqt51X1Qpsq8jeiIOM-13" value="Database" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#1A1A1A;fillColor=#FFFFFF;" vertex="1" parent="_Rqqt51X1Qpsq8jeiIOM-1">
-          <mxGeometry x="1100" y="200" width="350" height="310" as="geometry" />
+          <mxGeometry x="1160" y="200" width="290" height="310" as="geometry" />
         </mxCell>
         <mxCell id="_Rqqt51X1Qpsq8jeiIOM-14" value="Outside Data Store for Files&lt;br&gt;(Amazon S3, Digital Ocean Spaces, Google Cloud Storage)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#1A1A1A;fillColor=#FFFFFF;" vertex="1" parent="_Rqqt51X1Qpsq8jeiIOM-1">
           <mxGeometry x="940" y="30" width="510" height="140" as="geometry" />
